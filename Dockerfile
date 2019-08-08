@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.15.2
+FROM k8s.gcr.io/kube-apiserver:v1.13.2
 MAINTAINER allenzhang
